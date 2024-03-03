@@ -1,0 +1,206 @@
+.paper-13-icon {
+  position: absolute;
+  top: -43.4px;
+  left: -112.4px;
+  width: 1565px;
+  height: 1110.8px;
+  object-fit: contain;
+  mix-blend-mode: color-burn;
+}
+.photo {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  background-color: var(--color-darkslategray);
+  width: 1440px;
+  height: 810px;
+  overflow: hidden;
+}
+.group-child,
+.stay-tuned-stay {
+  position: absolute;
+  transform-origin: 0 0;
+}
+.group-child {
+  top: 70.9px;
+  left: 337.5px;
+  background-color: #f0e132;
+  box-shadow: 0 4px 54.4px rgba(0, 0, 0, 0.25) inset;
+  width: 1817.5px;
+  height: 78.2px;
+  transform: rotate(15deg);
+}
+.stay-tuned-stay {
+  top: 0;
+  left: 11.2px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 2020px;
+  height: 43px;
+  transform: rotate(15.07deg);
+}
+.rectangle-parent {
+  position: absolute;
+  top: 98.3px;
+  left: -485.3px;
+  width: 2093.1px;
+  height: 616.9px;
+  text-align: center;
+  font-size: 36.3px;
+  color: var(--color-black);
+}
+.div {
+  top: 406px;
+  left: 0;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 644px;
+  height: 216px;
+}
+.div,
+.parent,
+.xtasy {
+  position: absolute;
+}
+.xtasy {
+  top: 0;
+  left: 0.5px;
+  font-size: 317px;
+  letter-spacing: 0.01em;
+  font-family: var(--font-bayon);
+  display: inline-block;
+  width: 643px;
+  height: 574px;
+  text-shadow: 5.1px 0 0#fff, 0 5.1px 0#fff, -5.1px 0 0#fff, 0-5.1px 0#fff;
+}
+.parent {
+  top: 22px;
+  left: 398px;
+  width: 644px;
+  height: 622px;
+  text-align: center;
+  font-size: 187.1px;
+}
+.landing-page-child {
+  position: absolute;
+  top: -181.6px;
+  left: -315.6px;
+  width: 2018.7px;
+  height: 1153.6px;
+  object-fit: contain;
+}
+.website {
+  margin: 0;
+}
+.website-under-constrution {
+  width: 219px;
+  position: relative;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.xtasy-2024-social-handles-container {
+  width: 277px;
+  position: relative;
+  letter-spacing: 0.01em;
+  display: inline-block;
+}
+.frame-child,
+.group-item {
+  width: 39.3px;
+  position: relative;
+  height: 40.3px;
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-black);
+}
+.social-icons {
+  position: absolute;
+  top: 10.1px;
+  left: 9.6px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.group-parent,
+.xtasy-2024-social-handles-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 16px;
+}
+.xtasy-2024-social-handles-parent {
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 18px 0;
+  text-align: right;
+}
+.website-under-constrution-parent {
+  position: absolute;
+  top: 32px;
+  left: calc(50% - 688px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 880px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-gilroy-medium);
+}
+.while-you-wait {
+  position: absolute;
+  top: 632px;
+  left: 302.6px;
+  letter-spacing: 0.01em;
+  font-family: var(--font-gilroy-mediumitalic);
+}
+.frame-inner,
+.frame-item {
+  position: absolute;
+  top: 6px;
+  left: 2.2px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 218.4px;
+  height: 58.5px;
+}
+.frame-inner {
+  top: -3px;
+  left: -3px;
+  background-color: var(--color-black);
+  border: 3px solid var(--color-white);
+  width: 221.7px;
+  height: 64.5px;
+}
+.free-merch {
+  position: absolute;
+  top: 13.8px;
+  left: 34.2px;
+  letter-spacing: 0.01em;
+}
+.frame-div {
+  position: absolute;
+  top: 695px;
+  left: calc(50% - 110px);
+  width: 220.6px;
+  height: 64.5px;
+  font-family: var(--font-gilroy-semibold);
+}
+.landing-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 804px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-8xl-8);
+  color: var(--color-white);
+  font-family: var(--font-akira-expanded);
+}

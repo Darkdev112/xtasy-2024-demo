@@ -1,0 +1,16 @@
+.paper-13-icon1 {
+  position: absolute;
+  top: -43.4px;
+  left: -112.4px;
+  width: 1565px;
+  height: 1110.8px;
+  object-fit: contain;
+  mix-blend-mode: color-burn;
+}
+.photo1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-darkslategray);
+  height: 1024px;
+  overflow: hidden;
+}
