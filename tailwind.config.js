@@ -6,9 +6,14 @@ module.exports = {
     "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
+    screens: {
+      'sm': '280px',
+      'md': '640px',
+      'lg': '1024px',
+    },
     extend: {
       backgroundImage : {
-        'paper' : "url('../../public/paper.png')" 
+        'paper' : "url('../../public/bg_paper.png')" 
       },
       fontFamily : {
         'gilroy' : ['Gilroy','sans-serif'],
