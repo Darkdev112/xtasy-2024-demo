@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Gilroy";
+  src: url(../../public/fonts/Gilroy-Medium.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: "Bayon";
+  src: url(../../public/fonts/Bayon-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: "Akira";
+  src: url(../../public/fonts/Akira-Expanded.otf) format('opentype');
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: url(../../public/fonts/Poppins-Regular.ttf) format('truetype');
+}

@@ -1,1 +1,1 @@
-# Demo website for Xtasy 2024
+# Xtasy Demo Website
