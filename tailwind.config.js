@@ -13,7 +13,7 @@ module.exports = {
     },
     extend: {
       backgroundImage : {
-        'paper' : "url('../../public/bg_paper.png')" 
+        'paper' : "url('../../public/bg_paper.webp')" 
       },
       fontFamily : {
         'gilroy' : ['Gilroy','sans-serif'],
