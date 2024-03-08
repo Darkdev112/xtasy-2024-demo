@@ -11,7 +11,7 @@ export default function merchDetails(){
             </div>
           </div>
           <div className="md:min-h-[calc(100vh-112px-170px)] sm:min-h-[calc(100vh-112px-90px)] flex flex-col md:px-[100px] sm:px-5">
-            <p className="h-1/6 max-w-max md:text-[28px] md:leading-[32px] sm:text-[24px] sm:leading-[28px] text-white font-gilroy font-bold shadow-[inset_0px_-12px_0px_0px_rgba(0,0,0,1)] shadow-[#F0E132]">To win a free Xtasy Merch, complete these task and mention us on Instagram</p>
+            <p className="h-1/6 max-w-max md:text-[28px] md:leading-[40px] sm:text-[24px] sm:leading-[36px] text-[#8B8321] font-gilroy font-bold underline md:underline-offset-[10px] sm:underline-offset-[8px]">To win a free Xtasy Merch, complete these task and mention us on Instagram</p>
             <ol className="h-2/3 list-decimal list-inside font-poppins md:text-2xl sm:text-xl text-white py-[20px]">
                 <li className="mx-2 my-5">If the fest was a meme what would it be? Share your funniest creation in story!</li>
                 <li className="mx-2 my-5">Friendship goals activated! Who would you drag along to the fest for the most epic memories: Your BFF, your Crush, or your Squad?</li>
