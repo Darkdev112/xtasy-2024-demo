@@ -35,7 +35,7 @@ export default function Home() {
         </div>
         <div className="flex flex-row justify-center items-center mt-[40px] px-5">
           <div className="lg:w-[600px] md:w-[500px] sm:w-[400px] flex flex-row md:gap-[60px] sm:gap-[20px]">
-            <Portal text="Get Your Merch Ready!" linktext="Shop Now" link="/"/>
+            <Portal text="Get Your Merch Ready!" linktext="Shop Now" link="https://forms.fillout.com/t/bVtN3CECGfus"/>
             <Portal text="Get a chance to win a FREE MERCH !" linktext="Explore" link="/merch-details"/>
           </div>
         </div>
