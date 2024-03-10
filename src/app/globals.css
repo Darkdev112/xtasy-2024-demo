@@ -21,3 +21,13 @@
   font-family: "Poppins";
   src: url(../../public/fonts/Poppins-Regular.ttf) format('truetype');
 }
+
+@font-face {
+  font-family: "GilroyBlack";
+  src: url(../../public/fonts/Gilroy-Black.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: "GilroySemibold";
+  src: url(../../public/fonts/Gilroy-SemiBold.ttf) format('truetype');
+}

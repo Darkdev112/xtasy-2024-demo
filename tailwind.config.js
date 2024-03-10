@@ -19,7 +19,9 @@ module.exports = {
         'gilroy' : ['Gilroy','sans-serif'],
         'bayon' : ['Bayon','sans-serif'],
         'akira' : ['Akira', 'sans-serif'],
-        'poppins' : ['Poppins', 'sans-serif']
+        'poppins' : ['Poppins', 'sans-serif'],
+        'gilroy-black' : ['GilroyBlack', 'sans-serif'],
+        'gilroy-semibold' : ['GilroySemibold', 'sans-serif']
       },
     },
   },
