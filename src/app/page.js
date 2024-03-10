@@ -22,7 +22,7 @@ export default function Home() {
             </div>
           </div>
         </div>
-        <div className="w-full flex flex-col justify-center items-center overflow-hidden lg:my-0 md:my-10 sm:my-20">
+        <div className="w-full flex flex-col justify-center items-center overflow-hidden lg:-mt-[50px] md:-mt-[30px] sm:my-20">
           <div className="w-[500rem] lg:text-[40px] lg:leading-[60px] md:text-[35px] md:leading-[50px] sm:text-[35px] sm:leading-[40px] font-akira bg-[#E1BF0E] md:rotate-[12deg] sm:rotate-[20deg] lg:translate-y-[210px] md:translate-y-[175px] sm:translate-y-[110px] -z-10">STAY TUNED STAY TUNED STAY TUNED STAY TUNED STAY TUNED STAY TUNED STAY TUNED STAY TUNED STAY TUNED STAY TUNED STAY TUNED STAY TUNED STAY TUNED STAY TUNED</div>
           <div className="flex flex-col justify-center items-center text-white">
             <p className="lg:leading-[180px] lg:text-[300px] md:leading-[150px] md:text-[250px] sm:leading-[90px] sm:text-[150px] font-bayon">XTASY</p>
@@ -30,10 +30,10 @@ export default function Home() {
           </div>
           <div className="w-[500rem] lg:text-[40px] lg:leading-[60px] md:text-[35px] md:leading-[50px] sm:text-[35px] sm:leading-[40px] font-akira bg-[#E1BF0E] md:-rotate-[12deg] sm:-rotate-[20deg] lg:-translate-y-[210px] md:-translate-y-[175px] sm:-translate-y-[110px] shadow-[inset_0_10px_15px_0px_rgba(0,0,0,0.3)]"> COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON COMING SOON</div>
         </div>
-        <div className="flex flex-row justify-center items-center lg:-mt-[40px] md:-mt-[60px] sm:-mt-[80px]">
+        <div className="flex flex-row justify-center items-center lg:-mt-[130px] md:-mt-[130px] sm:-mt-[80px]">
           <p className="lg:w-auto sm:w-3/4 font-gilroy italic lg:text-[28px] md:text-2xl sm:text-xl text-white text-center">While you wait</p>
         </div>
-        <div className="flex flex-row justify-center items-center mt-[40px] px-5">
+        <div className="flex flex-row justify-center items-center lg:mt-[40px] md:mt-[20px] sm:mt-[40px] px-5">
           <div className="lg:w-[600px] md:w-[500px] sm:w-[400px] flex flex-row md:gap-[60px] sm:gap-[20px]">
             <Portal text="Get Your Merch Ready!" linktext="Shop Now" link="https://forms.fillout.com/t/bVtN3CECGfus"/>
             <Portal text="Get a chance to win a FREE MERCH !" linktext="Explore" link="/merch-details"/>
