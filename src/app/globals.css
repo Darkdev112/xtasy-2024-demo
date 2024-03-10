@@ -31,3 +31,7 @@
   font-family: "GilroySemibold";
   src: url(../../public/fonts/Gilroy-SemiBold.ttf) format('truetype');
 }
+
+.global{
+  @apply h-[100vh] w-[100vw] bg-paper bg-cover bg-center overflow-x-hidden select-none
+}
